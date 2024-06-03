@@ -33,3 +33,4 @@ if A=="YES":
     GuessGame()
 else:
     print("OK. Byee!!")
+    print("nice")
